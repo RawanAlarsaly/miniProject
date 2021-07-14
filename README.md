@@ -1,3 +1,3 @@
 # miniProject
 
-##project notes
+## project notes
